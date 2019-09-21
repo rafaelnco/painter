@@ -30,6 +30,20 @@ $ wget https://raw.githubusercontent.com/rafaelnco/painter/master/frames.json -O
 
 $ expo start
 ```
+
+### Introduction: generated project dependencies
+
+> 21 September 2019, our `package.json` looks like:
+```
+  "dependencies": {
+    "expo": "^35.0.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
+    "react-native-web": "^0.11.7"
+  },
+```
+
 ---
 ## Principles
 
