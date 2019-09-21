@@ -11,6 +11,8 @@ brief study on fluid vector animations using RN Art + Animated + Hooks, you may 
 
 <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/whatsapp.gif" width="24%"> <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird1.gif" width="24%"> <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird2.gif" width="24%"> <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird3.gif" width="24%">
 
+> notice the blue/red colors are actually gradients not supported by android
+
 ### Introduction: Get ready
 
 > This README.md is actual valid `JavaScript` that you can just inject in a newly created expo project.
