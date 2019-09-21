@@ -67,7 +67,7 @@ SVG may be not the perfect solution for animations on mobile (as it's not native
 
 - **Responsiveness**: we'll be scaling-to-fit our vector on the mobile screen, for that it's necessary to constraint file dimensions to known sizes
 
-- **Single vector frame**: keeping tight on the "framed" concept, let us avoid parsing SVG and just understand each `<path>` as a frame so every frame has all it's vectors inside the same `path.d` string
+- **Single vector frame**: keeping tight on the "framed" concept, let us avoid parsing SVG too deeply and just understand each `<path>` as a frame so every frame has all it's vectors inside the same `path.d` string
 
 - **Layered frames**: we're going to extract paths from SVG so try to order them from bottom-up (first-last)
 
