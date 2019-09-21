@@ -9,13 +9,7 @@ brief study on fluid vector animations using RN Art + Animated + Hooks, you may 
 **you may also find this project on expo**
 [https://exp.host/@rafaelnco/frontend-application-service-painter-v0a2](https://exp.host/@rafaelnco/frontend-application-service-painter-v0a2)
 
-<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/whatsapp.gif" width="24%">
-
-<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird1.gif" width="24%">
-
-<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird2.gif" width="24%">
-
-<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird3.gif" width="24%">
+<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/whatsapp.gif" width="24%"> <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird1.gif" width="24%"> <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird2.gif" width="24%"> <img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird3.gif" width="24%">
 
 ### Introduction: Get ready
 
