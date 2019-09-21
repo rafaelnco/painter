@@ -9,13 +9,13 @@ brief study on fluid vector animations using RN Art + Animated + Hooks, you may 
 **you may also find this project on expo**
 [https://exp.host/@rafaelnco/frontend-application-service-painter-v0a2](https://exp.host/@rafaelnco/frontend-application-service-painter-v0a2)
 
-![gif preview animated UI](https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/whatsapp.gif)
+<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/whatsapp.gif" width="24%">
 
-![gif preview animated UI](https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird1.gif)
+<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird1.gif" width="24%">
 
-![gif preview animated UI](https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird2.gif)
+<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird2.gif" width="24%">
 
-![gif preview animated UI](https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird3.gif)
+<img src="https://raw.githubusercontent.com/rafaelnco/painter/master/gifs/bird3.gif" width="24%">
 
 ### Introduction: Get ready
 
@@ -28,7 +28,7 @@ $ expo init project
 
 $ cd project
 
-$ wget https://raw.githubusercontent.com/rafaelnco/painter/gh-pages/README.md -O App.js
+$ wget https://raw.githubusercontent.com/rafaelnco/painter/master/README.md -O App.js
 
 $ expo start
 ```
