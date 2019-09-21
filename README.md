@@ -15,7 +15,7 @@ brief study on fluid vector animations using RN Art + Animated + Hooks, you may 
 
 ### Introduction: Get ready
 
-> This README.md is actual valid `JavaScript` that you can just inject in a newly created expo project.
+#### This entire README.md is actual valid `JavaScript`, just download it as `App.js` on your newly created expo project and read this documentation while tweaking the code
 
 > This project sticks to _pure React Native_ solutions avoiding third-party
 
