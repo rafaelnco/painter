@@ -26,6 +26,8 @@ $ cd project
 
 $ wget https://raw.githubusercontent.com/rafaelnco/painter/master/README.md -O App.js
 
+$ wget https://raw.githubusercontent.com/rafaelnco/painter/master/frames.json -O frames.json
+
 $ expo start
 ```
 ---
