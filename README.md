@@ -1,5 +1,5 @@
 
-/*
+/* This entire README.md is actual valid `JavaScript`, just download it as `App.js` on your newly created expo project and read this documentation while tweaking the code
 # RN: Art + Animated + Hooks
 
 ## Introduction
@@ -15,7 +15,7 @@ brief study on fluid vector animations using RN Art + Animated + Hooks, you may 
 
 ### Introduction: Get ready
 
-#### This entire README.md is actual valid `JavaScript`, just download it as `App.js` on your newly created expo project and read this documentation while tweaking the code
+This entire README.md is actual valid `JavaScript`, just download it as `App.js` on your newly created expo project and read this documentation while tweaking the code
 
 > This project sticks to _pure React Native_ solutions avoiding third-party
 
@@ -102,11 +102,11 @@ Follow the steps to get your first two framed vector animation ready:
 
 ### Preparing: SVG-to-JSON
 
-Next step is to extract the frames from the SVG, that's how fun begins. remember our assumption about each path to be a single frame and all we need to do is extract each path from our SVG file and persist is a JSON.
+Next step is to extract the frames from the SVG, that's how fun begins. Remember our assumption about each path to be a single frame and all we need to do is extract each path from our SVG file and persist is a JSON.
 
 > Important: the following code is intended to be ran as a npm script to generate the JSON with extracted frames
 
-> Note: yes, we could parse SVG directly on our application but let's stick to JSON as at it's already going to be used to agregate meta-data for each frame
+> Note: yes, we could parse SVG directly on our application but let's stick to JSON as it's already going to be used to agregate meta-data for each frame
 
 `convert.js`:
 ```js
@@ -141,7 +141,7 @@ $ node convert justSavedFile.svg output.json
 ```
 
 
-Now taht we have the basic assets to get started, let us begin implementing our mobile frontend presentation: from now on everything is React Native code.
+Now that we have the basic assets to get started, let us begin implementing our mobile frontend presentation: from now on everything is React Native code.
 
 ---
 ## Implementation: dependencies
@@ -211,7 +211,7 @@ export default function App() {
   /* Frame transition parameter reference */
   const parameter = useRef(new Animated.Value(0))
 
-  /* Frame transition parameter reference */
+  /* Frame transition parameter state */
   const [parameterValue, setParameterValue] = useState(0)
 
   /* Frame transition current path */
